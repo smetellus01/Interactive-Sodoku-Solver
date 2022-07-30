@@ -2,7 +2,7 @@
 
 A Python-based program that uses A* Path Finding to find the shortest distance (Manhattan) between two nodes on a grid map. 
 
-# Controls
+## Controls
 
 <kbd>First Left Click</kbd> = Start Node (Point A)
 
@@ -14,11 +14,19 @@ A Python-based program that uses A* Path Finding to find the shortest distance (
 
 <kbd>Space</kbd> = Starts Pathfinding
 
-# Libraries
+## Libraries
 
 This program utilizes pygame for GUI support and display.
 
-# Demo
+## Demo
 
 ![pathfinder-example](https://user-images.githubusercontent.com/65518883/181875654-76e64b48-26c6-4968-95b4-acedecd7a548.png)
+
+**Black = Obstacles for Nodes**
+
+**Purple = Shortest Path**
+
+**Red = Search Radius for Shortest Path**
+
+**Green = Edge of Algorithm**
 
