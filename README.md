@@ -14,6 +14,11 @@ A Python-based program that uses A* Path Finding to find the shortest distance (
 
 <kbd>Space</kbd> = Starts Pathfinding
 
+# Libraries
+
+This program utilizes pygame for GUI support and display.
+
 # Demo
 
+![pathfinder-example](https://user-images.githubusercontent.com/65518883/181875654-76e64b48-26c6-4968-95b4-acedecd7a548.png)
 
